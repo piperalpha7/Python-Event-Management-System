@@ -5,23 +5,23 @@
 
 The interim project task was to create an Event Management System(EMS) using Python. In general the EMS is used to plan and execute events by event management companies. The EMS created here is aimed to have the following features :-
 
-Adding an event in the system.
+👉 Adding an event in the system.
 
-Editing the details of an event.
+👉 Editing the details of an event.
 
-Cancelling an event
+👉 Cancelling an event
 
-Display all the events in the system
+👉 Display all the events in the system
 
-Display the details of an event
+👉 Display the details of an event
 
-Display the attendee list of an event
+👉 Display the attendee list of an event
 
-Adding an attendee to an event
+👉 Adding an attendee to an event
 
-Delete an attendee from an event.
+👉 Delete an attendee from an event.
 
-Console displaying the menu
+👉 Console displaying the menu
 
 
 ## Python Tools
@@ -52,7 +52,7 @@ The underlying code structure opted here is that of Object Oriented Programming(
 
 
 
-![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/57ceb6ad-d01d-4900-a5dd-daa0fb16c660)
+          ![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/57ceb6ad-d01d-4900-a5dd-daa0fb16c660)
 
 
 I defined 4 classes i.e. Company, Admin, Events and Attendees. The diagram above shows the Multilevel Inheritance approach used in order to create this project. Every class shows the attributes local to itself. But on inheritance, it derived the features from its parent class. Hence, the class Attendees was able to derive attributes from all the parent classes while having some of its own.
@@ -61,7 +61,7 @@ The project requirements stated that ‘Events’ and ‘Attendees’ are the 2 
 
 
 
-![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/78699309-fd8d-4300-aa84-0b8f8dd17319)
+          ![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/78699309-fd8d-4300-aa84-0b8f8dd17319)
  
 
 
