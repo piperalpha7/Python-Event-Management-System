@@ -51,8 +51,7 @@ The underlying code structure opted here is that of Object Oriented Programming(
 👉 Test or TDD methods(test_cases.py)
 
 
-
-          ![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/57ceb6ad-d01d-4900-a5dd-daa0fb16c660)
+![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/57ceb6ad-d01d-4900-a5dd-daa0fb16c660)
 
 
 I defined 4 classes i.e. Company, Admin, Events and Attendees. The diagram above shows the Multilevel Inheritance approach used in order to create this project. Every class shows the attributes local to itself. But on inheritance, it derived the features from its parent class. Hence, the class Attendees was able to derive attributes from all the parent classes while having some of its own.
@@ -61,7 +60,7 @@ The project requirements stated that ‘Events’ and ‘Attendees’ are the 2 
 
 
 
-          ![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/78699309-fd8d-4300-aa84-0b8f8dd17319)
+![image](https://github.com/piperalpha7/Python-Event-Management-System/assets/94968239/78699309-fd8d-4300-aa84-0b8f8dd17319)
  
 
 
